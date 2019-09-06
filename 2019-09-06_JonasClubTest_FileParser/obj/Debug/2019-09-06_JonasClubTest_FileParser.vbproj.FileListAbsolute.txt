@@ -1,0 +1,12 @@
+C:\Users\Dus-PC\source\repos\2019-09-06_JonasClubTest_FileParser\2019-09-06_JonasClubTest_FileParser\bin\Debug\2019-09-06_JonasClubTest_FileParser.exe.config
+C:\Users\Dus-PC\source\repos\2019-09-06_JonasClubTest_FileParser\2019-09-06_JonasClubTest_FileParser\bin\Debug\2019-09-06_JonasClubTest_FileParser.exe
+C:\Users\Dus-PC\source\repos\2019-09-06_JonasClubTest_FileParser\2019-09-06_JonasClubTest_FileParser\bin\Debug\2019-09-06_JonasClubTest_FileParser.pdb
+C:\Users\Dus-PC\source\repos\2019-09-06_JonasClubTest_FileParser\2019-09-06_JonasClubTest_FileParser\bin\Debug\2019-09-06_JonasClubTest_FileParser.xml
+C:\Users\Dus-PC\source\repos\2019-09-06_JonasClubTest_FileParser\2019-09-06_JonasClubTest_FileParser\obj\Debug\2019-09-06_JonasClubTest_FileParser.vbprojAssemblyReference.cache
+C:\Users\Dus-PC\source\repos\2019-09-06_JonasClubTest_FileParser\2019-09-06_JonasClubTest_FileParser\obj\Debug\_2019_09_06_JonasClubTest_FileParser.Form1.resources
+C:\Users\Dus-PC\source\repos\2019-09-06_JonasClubTest_FileParser\2019-09-06_JonasClubTest_FileParser\obj\Debug\_2019_09_06_JonasClubTest_FileParser.Resources.resources
+C:\Users\Dus-PC\source\repos\2019-09-06_JonasClubTest_FileParser\2019-09-06_JonasClubTest_FileParser\obj\Debug\2019-09-06_JonasClubTest_FileParser.vbproj.GenerateResource.cache
+C:\Users\Dus-PC\source\repos\2019-09-06_JonasClubTest_FileParser\2019-09-06_JonasClubTest_FileParser\obj\Debug\2019-09-06_JonasClubTest_FileParser.vbproj.CoreCompileInputs.cache
+C:\Users\Dus-PC\source\repos\2019-09-06_JonasClubTest_FileParser\2019-09-06_JonasClubTest_FileParser\obj\Debug\2019-09-06_JonasClubTest_FileParser.exe
+C:\Users\Dus-PC\source\repos\2019-09-06_JonasClubTest_FileParser\2019-09-06_JonasClubTest_FileParser\obj\Debug\2019-09-06_JonasClubTest_FileParser.xml
+C:\Users\Dus-PC\source\repos\2019-09-06_JonasClubTest_FileParser\2019-09-06_JonasClubTest_FileParser\obj\Debug\2019-09-06_JonasClubTest_FileParser.pdb
